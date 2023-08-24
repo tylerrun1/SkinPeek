@@ -1,5 +1,5 @@
 {
-  "token": "token goes here",
+  "token": "MTA3NjY5MTUwNTk2OTg5MzQ2OA.G3rHzW.F1HQAN3m92GWTiGa1urrPxpNqDnVwO4emIJiJM",
   "fetchSkinPrices": true,
   "fetchSkinRarities": true,
   "localiseSkinNames": true,
@@ -20,7 +20,7 @@
   "trackStoreStats": false,
   "statsExpirationDays": 14,
   "statsPerPage": 8,
-  "ownerId": "",
+  "ownerId": "334297258780524544",
   "ownerName": "",
   "status": "Up and running!",
   "logToChannel": "",
